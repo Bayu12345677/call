@@ -1,10 +1,10 @@
-# ca [ll]
+# call
 
 Script ini di buat untuk bercanda sama teman
 
 Limit 3x per call
 
-##Cara [install]
+##Cara install
       Kecil semua
 
 ▶PKG install jq
