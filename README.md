@@ -1,4 +1,4 @@
-#ca[ll]
+# ca [ll]
 
 Script ini di buat untuk bercanda sama teman
 
