@@ -25,6 +25,9 @@ PKG install cURL
 
 sh -c "git clone https://github.com/Bayu12345677/call && cd call && ksh call.ksh -h"
 
+cd call
+
+ksh call.ksh -j
 
 Jng lupa subrek admin
 
