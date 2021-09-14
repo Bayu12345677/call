@@ -1,4 +1,4 @@
-# call
+# korn shell [call](https://github.com/Bayu12345677/call)
 
 Script ini di buat untuk bercanda sama teman
 
